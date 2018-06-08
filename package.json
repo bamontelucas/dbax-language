@@ -2,7 +2,7 @@
     "name": "dbax",
     "displayName": "dbax-view",
     "description": "DBAX view language",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "bamontelucas",
     "repository": "https://github.com/bamontelucas/dbax-language",
     "engines": {
@@ -12,16 +12,27 @@
         "Programming Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "dbax",
-            "aliases": ["DBAX View", "dbax"],
-            "extensions": [".dbx",".dbax", ".html"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "dbax",
-            "scopeName": "source.dbax",
-            "path": "./syntaxes/dbax.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "dbax",
+                "aliases": [
+                    "DBAX View",
+                    "dbax"
+                ],
+                "extensions": [
+                    ".dbx",
+                    ".dbax",
+                    ".html"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "dbax",
+                "scopeName": "source.dbax",
+                "path": "./syntaxes/dbax.tmLanguage"
+            }
+        ]
     }
 }
