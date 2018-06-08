@@ -2,7 +2,7 @@
     "name": "dbax",
     "displayName": "dbax-view",
     "description": "DBAX view language",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "bamontelucas",
     "repository": "https://github.com/bamontelucas/dbax-language",
     "engines": {
