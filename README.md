@@ -1,2 +1,4 @@
-# dbax-language
-DBAX (https://dbax-project.com/) views language support for Visual Studio Code
+# EJS Language Support
+Generated EJS auto detection for Visual Studio Code. Generated from gregory-m's TextMate Bundle:
+
+https://github.com/gregory-m/ejs-tmbundle
