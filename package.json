@@ -2,8 +2,14 @@
     "name": "dbax",
     "displayName": "DBAX View Language",
     "description": "DBAX view language",
-    "keywords": ["plsql", "oracle", "template", "dbax", "dbx"],
-    "version": "0.0.9",
+    "keywords": [
+        "plsql",
+        "oracle",
+        "template",
+        "dbax",
+        "dbx"
+    ],
+    "version": "0.0.10",
     "publisher": "bamontelucas",
     "repository": "https://github.com/bamontelucas/dbax-language",
     "engines": {
