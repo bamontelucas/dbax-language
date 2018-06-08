@@ -6,7 +6,7 @@
     "publisher": "bamontelucas",
     "repository": "https://github.com/bamontelucas/dbax-language",
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.10.0"
     },
     "categories": [
         "Programming Languages"
