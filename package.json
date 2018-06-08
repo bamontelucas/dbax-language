@@ -4,6 +4,7 @@
     "description": "DBAX view language",
     "version": "0.0.1",
     "publisher": "bamontelucas",
+    "repository": "https://github.com/bamontelucas/dbax-language",
     "engines": {
         "vscode": "^1.24.0"
     },
