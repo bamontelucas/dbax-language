@@ -11,7 +11,7 @@
     "categories": [
         "Programming Languages"
     ],
-    "icon": "./icons/128.png",
+    "icon": "icons/128.png",
     "contributes": {
         "languages": [
             {
