@@ -21,8 +21,7 @@
                 ],
                 "extensions": [
                     ".dbx",
-                    ".dbax",
-                    ".html"
+                    ".dbax"
                 ],
                 "configuration": "./language-configuration.json"
             }
